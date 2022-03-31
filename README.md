@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ <hr></hr>
+<p align="center">
+  <samp>
+    Hello, I'm Pyae Phyo Kyaw! <br>
+    I am freelance Android Developer  <br>
+    :computer: Currently working as a Junior IT Technician
+    :heart: Favorite Tech: Java, Kotlin <br>
+    :email:	pyaehho1259@gmail.com <br>
+    :art: <br>
+  
+  </samp>
+</p>
+
